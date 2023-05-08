@@ -8,7 +8,7 @@ M for MongoDB (database). E for Express (framework). R for ReactJS (FE). N for N
 In this class, will create a complex project in the form of a top up game website. The material starts from the FE side, including changing the HTML design template that we have been slicing into NextJS. In order to easily manage large-scale data, component libraries will be organized according to Atomic Design principles. On the BE side, the main NodeJS framework is used for routing, middleware, database integration to testing. CRUD (Create, Read, Update, Delete) will also be used to organize database content as needed. Then API integration is implemented on both sides to enable data access on the same server. 
 
 
-## Key Point
+## Key Points
 
 - Deploying projects to Vercel (Front-End) and Heroku (Back-End)
 - Integrating NodeJS REST API with ReactJS (NextJS)
